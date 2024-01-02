@@ -133,7 +133,6 @@ const styles = StyleSheet.create({
   },
   scroll_form: {
     width: windowWidth,
-
     paddingHorizontal: 20,
   },
   forms: {
